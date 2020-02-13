@@ -1,14 +1,3 @@
-.header {
-  height: 190px;
-  background-color: #a9a9a9;
-  text-decoration: none;
-  color: #ffffff;
-  /* flexbox container */
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 60px 100px;
-}
 .header > .nav-bar {
   /* Flex box container */
   display: flex;
@@ -32,17 +21,4 @@
 .header > .nav-bar > .nav-link a {
   text-decoration: none;
   color: #ffffff;
-}
-body {
-    margin: 0px;
-    font-family: 'Roboto', sans-serif;
-    background-color: #757575;
-}
-.page-identifier {
-  width: 300px;
-  text-align: left;
-}
-.contact-info {
-  width:300px;
-  text-align: right;
 }

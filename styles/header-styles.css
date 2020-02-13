@@ -1,0 +1,20 @@
+.header {
+  height: 190px;
+  background-color: #a9a9a9;
+  text-decoration: none;
+  color: #ffffff;
+  /* flexbox container */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 100px;
+}
+
+.page-identifier {
+  width: 300px;
+  text-align: left;
+}
+.contact-info {
+  width:300px;
+  text-align: right;
+}
