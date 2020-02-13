@@ -1,8 +1,6 @@
 .header {
   height: 190px;
   background-color: #a9a9a9;
-  text-decoration: none;
-  color: #ffffff;
   /* flexbox container */
   display: flex;
   justify-content: space-between;

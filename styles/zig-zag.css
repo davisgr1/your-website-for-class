@@ -1,0 +1,18 @@
+.content-of-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+.content-of-page > .row {
+  display: flex;
+  align-items: center;
+}
+.content-of-page > .row > .info-column {
+  text-align: center;
+  align-items:center;
+  width: 250px;
+}
+.content-of-page > .row > .pic-column {
+  width: 250px;
+}
