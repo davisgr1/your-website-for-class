@@ -1,0 +1,7 @@
+.header > .nar-bar {
+    background-color: #212121;
+    /* Flex box container */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+}
